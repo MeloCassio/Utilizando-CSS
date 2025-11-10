@@ -1,0 +1,47 @@
+        body {
+            background-color: rgb(169, 15, 15);
+        }
+        
+        h1 {
+            color: black;
+            text-align: center;
+        }
+        
+        p {
+            color: rgb(255, 255, 255);
+            text-align: center;
+        }
+        
+        h2 {
+            text-align: center;
+            color: rgb(0, 0, 0);
+        }
+        
+        header {
+            background-color: rgb(255, 255, 255);
+            color: rgb(0, 0, 0);
+            padding: 10px;
+            margin: -10px;
+            text-align: center;
+        }
+        
+        section {
+            text-align: center;
+        }
+        
+        * {
+            padding: 4px;
+            margin: 1px;
+            box-sizing: border-box;
+            font-family: Arial;
+        }
+        
+        main {
+            padding: 40px 20px;
+            border-radius: 12px;
+            width: 90%;
+            max-width: 900px;
+            margin: 40px auto;
+            box-shadow: 0 0 25px black;
+            border: 3px solid rgb(0, 0, 0);
+        }
